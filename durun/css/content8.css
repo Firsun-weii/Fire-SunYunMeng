@@ -1,6 +1,6 @@
 .content{
 	width: 1500px;
-	height: 450px;
+	height: 500px;
 	margin: 15px;
 }
 
@@ -39,11 +39,11 @@
 
 #neirong{
 	width: 1450px;
-	height: 450px;
+	height: 500px;
 	margin: 20px;
 	margin-left: 10px;
-	background-image: url(../images/pinglun.gif);
-	background-size: 1450px 450px;
+	background-image: url(../images/content1.jpg);
+	background-size: 1450px 500px;
 	float: left;
 }
 
@@ -109,4 +109,18 @@ h2{
 
 p{
 	font-family: '华文楷体';
+}
+
+.erweima{
+	width: 250px;
+	height: 340px;
+	padding-left: 4px;
+}
+
+.er{
+	width: 258px;
+	height: 380px;
+	margin-left: 60px;
+	float: left;
+	border: 4px red solid;
 }
